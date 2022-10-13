@@ -1,0 +1,2 @@
+init_control:my_motion_planning:my_navigation:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/pi/multirotor_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/multirotor_ws/install -G Unix Makefiles
